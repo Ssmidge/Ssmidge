@@ -27,7 +27,7 @@ I'm currently working on plugins  [@Stelar Development](https://github.com/Stela
 Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great song honestly :3
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=adrian19734682&show_icons=true&hide_border=true) <br/>
+![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true) <br/>
 
 *I'm a bit shy, **even online**, but feel **free** to contact me on [Telegram](https://t.me/ssmidge) or on Discord (Kōrudo#8506)*
 
