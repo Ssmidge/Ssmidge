@@ -34,9 +34,9 @@ Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great so
 Im currently mostly working on these;
 
 <a href="https://github.com/WeLiketoCodeStuff">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=starplum&repo=LunarClientAPI" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WeLikeToCodeStuff&repo=WeLikeToCodeStuff.github.io" />
 </a>
 
-<a href="https://github.com/WeLikeToCodeStuff/nyancatbot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=starplum&repo=clientessentials" />
+<a href="https://github.com/WeLikeToCodeStuff/nyanbot">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WeLikeToCodeStuff&repo=nyanbot" />
 </a>
