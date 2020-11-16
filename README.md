@@ -27,16 +27,16 @@ I'm currently working on random stuff  I love to code random stuff if my crappy 
 Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great song honestly :3
 
 
-![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true) <br/>
+![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true&theme=onedark) <br/>
 
 *I'm a bit shy, **even online**, but feel **free** to contact me on Discord (Kōrudo#3157) or [my website](https://ssmidge.xyz)*
 
 Im currently mostly working on these;
 
 <a href="https://github.com/WeLiketoCodeStuff">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WeLikeToCodeStuff&repo=WeLikeToCodeStuff.github.io" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WeLikeToCodeStuff&repo=WeLikeToCodeStuff.github.io&theme=onedark" />
 </a>
 
 <a href="https://github.com/WeLikeToCodeStuff/nyanbot">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WeLikeToCodeStuff&repo=nyanbot" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=WeLikeToCodeStuff&repo=nyanbot&theme=onedark" />
 </a>
