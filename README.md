@@ -18,7 +18,7 @@ Helloo everyone, My name is Adrian. I'm a 13 (yes totally :wink: ) years old mal
 and I mainly program Java. I like to watch anime, and code all day.
 Basically, if I'm not coding, I'm watching anime or sleeping xD
 
-[JavaScript](https://nodejs.org) is not the only language I know, I often use javascript to code some random discord bot
+[JavaScript](https://nodejs.org) is not the only language I know, I often use typescript to code some random discord bot
 and known Windows exploits and test them on my personal PC (risky, i know :smile:). I also
 work with [Git](https://git-scm.com/) and use [VsCode](https://code.visualstudio.com) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
