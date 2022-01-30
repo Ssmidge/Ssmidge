@@ -13,7 +13,7 @@
                                                  \______/                                                        
               
 ```
-
+![](https://komarev.com/ghpvc/?username=Ssmidge)
 Helloo everyone, My name is Adrian. I'm a 13 (yes totally :wink: ) years old male   
 and I mainly program Java. I like to watch anime, and code all day.
 Basically, if I'm not coding, I'm watching anime or sleeping xD
