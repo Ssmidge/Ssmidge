@@ -22,7 +22,7 @@ Basically, if I'm not coding, I'm watching anime or sleeping xD
 and known Windows exploits and test them on my personal PC (risky, i know :smile:). I also
 work with [Git](https://git-scm.com/) and use [VsCode](https://code.visualstudio.com) as my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment).
 
-I'm currently working on random stuff  I love to code random stuff if my crappy 2009 pc can handle my ide(s)
+I'm currently working on random stuff, I love to code if my crappy 2009 pc can handle my IDE(s) (I'm looking at you IntelliJ IDEA)
 
 Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great song honestly :3
 
