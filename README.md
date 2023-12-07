@@ -14,7 +14,7 @@
               
 ```
 ![](https://komarev.com/ghpvc/?username=Ssmidge)
-Helloo everyone, My name is Adrian. I'm a 13 (yes totally :wink: ) years old male   
+Helloo everyone, My name is Adrian. I'm a System Administrator & Developer
 and I mainly program Java. I like to watch anime, and code all day.
 Basically, if I'm not coding, I'm watching anime or sleeping xD
 
@@ -29,7 +29,7 @@ Anyways, my fav song is [this](https://youtu.be/ub82Xb1C8os), and its a great so
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Ssmidge&show_icons=true&hide_border=true&theme=onedark) <br/>
 
-*I'm a bit shy, **even online**, but feel **free** to contact me on Discord (Kōrudo#3157) or [my website](https://ssmidge.xyz)*
+Go contact me on discord (ssmidge) or [my website](https://ssmidge.xyz) or just email me @ adriant@ssmidge.xyz
 
 Im currently mostly working on these;
 
