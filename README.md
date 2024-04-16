@@ -33,7 +33,7 @@ Im currently mostly working on these;
 <a href="https://lyxia.net">
   Lyxia, a FREE hosting company
 </a>
-
+<br/><br/>
 <a href="https://ssmidge.com">
   Ssmidge Technologies, a company that provides Systems Administration services to fellow SMBs!
 </a>
